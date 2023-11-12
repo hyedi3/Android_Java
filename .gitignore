@@ -31,3 +31,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+#ignore out/production/Android_java/README.md
+out/production/Android_java/README.md
