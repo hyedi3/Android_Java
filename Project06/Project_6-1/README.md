@@ -69,7 +69,7 @@ activity_main/xml에서 선언한 위젯에 대응하는 기능 구현
     }
   });
   ```
-  <p align="left"> <img src="../Project06/img/image1.png" alt="이미지" width="20%"> 
+  <p align="left"> <img src="../Project_6-1/img/image1.png" alt="이미지" width="20%"> 
 <br></br>
 
 
@@ -86,7 +86,7 @@ activity_main/xml에서 선언한 위젯에 대응하는 기능 구현
     }             
   });
   ```
-  <p align="left"> <img src="../Project06/img/image2.png" alt="이미지" width="20%"> 
+  <p align="left"> <img src="../Project_6-1/img/image2.png" alt="이미지" width="20%"> 
 
 <br></br>
 
@@ -105,7 +105,7 @@ activity_main/xml에서 선언한 위젯에 대응하는 기능 구현
     }
   });
   ```
-    <p align="left"> <img src="../Project06/img/image3.png" alt="이미지" width="20%"> 
+    <p align="left"> <img src="../Project_6-1/img/image3.png" alt="이미지" width="20%"> 
     <br></br>
 
 - **예약 시작/예약 완료 클릭 이벤트 리스너 (예약 완료)**
@@ -132,7 +132,7 @@ activity_main/xml에서 선언한 위젯에 대응하는 기능 구현
   });
   
   ```
-    <p align="left"> <img src="../Project06/img/image4.png" alt="이미지" width="20%"> 
+    <p align="left"> <img src="../Project_6-1/img/image4.png" alt="이미지" width="20%"> 
     <br></br>
 
 - **월에 +1을 해주는 부분** </br>
