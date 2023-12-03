@@ -13,4 +13,4 @@
 1. [안드로이드 특징 요약](https://github.com/hyedi3/Android_Java/blob/hyedi3-docs/docs/Android-Feature-Summary.md)
 2. [안드로이드 설치/실습 환경 구축](https://github.com/hyedi3/Android_Java/blob/hyedi3-docs/docs/Install-AndroidStudio.md)
 3. [FourButton_Project](https://github.com/hyedi3/Android_Java/blob/main/FourButton_Project/README.md)
-4. [Java_Project](https://github.com/hyedi3/Android_Java/tree/main/Java/Project3_1/src)
+4. [Java_Project](https://github.com/hyedi3/Android_Java/blob/main/Java/README.md)
